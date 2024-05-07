@@ -1,0 +1,1 @@
+This is the first project I upload to GitHub as part of my work with the Odin Project.
